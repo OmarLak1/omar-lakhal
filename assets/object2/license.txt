@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spongebob Rig
+* source:	https://sketchfab.com/3d-models/spongebob-rig-5009dc11dd1f45d3ac8dda79b06e09db
+* author:	FreeModeler12345 (https://sketchfab.com/FreeModeler12345)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spongebob Rig" (https://sketchfab.com/3d-models/spongebob-rig-5009dc11dd1f45d3ac8dda79b06e09db) by FreeModeler12345 (https://sketchfab.com/FreeModeler12345) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
